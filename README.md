@@ -219,7 +219,7 @@ MIT License - feel free to use this project for learning and development!
 
 <div align="center">
 
-### Built with ❤️ for Odoo Hackathon
+### Built with ❤️ 
 
 **Made by:** [Chaitanya Dalvi](https://github.com/ChaitanyDalvi06)
 
